@@ -1,7 +1,7 @@
 # itch.io plugin for ROM Hub — **NO IMPORT**
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
-501(c)(3).
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
 
 > ## ⚠ This plugin cannot import. It never will, as built.
 >
