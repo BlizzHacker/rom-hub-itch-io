@@ -1,5 +1,8 @@
 # itch.io plugin for ROM Hub — **NO IMPORT**
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
+501(c)(3).
+
 > ## ⚠ This plugin cannot import. It never will, as built.
 >
 > **It finds and describes; it does not fetch.** It searches free games on
