@@ -1,5 +1,7 @@
 # itch.io plugin for ROM Hub — **NO IMPORT**
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 > ## ⚠ This plugin cannot import. It never will, as built.
 >
 > **It finds and describes; it does not fetch.** It searches free games on
